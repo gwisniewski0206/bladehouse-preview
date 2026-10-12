@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.012d88e8.css",
+    "main.js": "./static/js/main.b144ffe7.js",
+    "static/media/iosevka-400-italic.woff2": "./static/media/iosevka-400-italic.6b614b160e5c137c2225.woff2",
+    "static/media/bladeloader.png": "./static/media/bladeloader.36aa27cf4f2fa950b320.png",
+    "static/media/iosevka-300-normal.woff2": "./static/media/iosevka-300-normal.a3f5cbbd03286deb530a.woff2",
+    "static/media/iosevka-500-normal.woff2": "./static/media/iosevka-500-normal.539cc4cb1b0a64209d5c.woff2",
+    "static/media/iosevka-600-normal.woff2": "./static/media/iosevka-600-normal.1c150124793798bc94ab.woff2",
+    "static/media/iosevka-400-normal.woff2": "./static/media/iosevka-400-normal.1b2b31fcc4aac91991db.woff2",
+    "static/media/iosevka-700-normal.woff2": "./static/media/iosevka-700-normal.107ead3ac4d6bddbbc3f.woff2",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/css/main.012d88e8.css",
+    "static/js/main.b144ffe7.js"
+  ]
+}
