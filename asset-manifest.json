@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.055f03ed.css",
-    "main.js": "./static/js/main.f25fee1c.js",
+    "main.css": "./static/css/main.65b1b21e.css",
+    "main.js": "./static/js/main.24ce7803.js",
     "static/media/iosevka-400-italic.woff2": "./static/media/iosevka-400-italic.6b614b160e5c137c2225.woff2",
     "static/media/bladeloader.png": "./static/media/bladeloader.36aa27cf4f2fa950b320.png",
     "static/media/iosevka-300-normal.woff2": "./static/media/iosevka-300-normal.a3f5cbbd03286deb530a.woff2",
@@ -12,7 +12,7 @@
     "index.html": "./index.html"
   },
   "entrypoints": [
-    "static/css/main.055f03ed.css",
-    "static/js/main.f25fee1c.js"
+    "static/css/main.65b1b21e.css",
+    "static/js/main.24ce7803.js"
   ]
 }
